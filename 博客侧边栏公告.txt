@@ -1,0 +1,9 @@
+<script type="text/javascript">
+    window.cnblogsConfig = {
+        GhVersions    : 'v1.2.3', // 版本
+        blogUser      : "itgoyo", // 用户名
+        blogAvatar    : "https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/tx.jpeg", // 用户头像
+        blogStartDate : "2015-8-13", // 入园时间，年-月-日。入园时间查看方法：鼠标停留园龄时间上，会显示入园时间
+    }
+</script>       
+<script src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/cnblogs_simplememory.js"></script>
